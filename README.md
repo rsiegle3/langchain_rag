@@ -1,2 +1,2 @@
 # langchain_rag
-This Jupyter notebook runs through a retrieval augmented generation process using LangChain, FAISS, OpenAI (text-davinci-003), and HuggingFaceHub(Google/flan-t5-xxl) on documentation for vector databases(https://www.pinecone.io/learn/vector-database/), or a state of the union speech.
+This Jupyter notebook runs through a retrieval augmented generation process using LangChain, FAISS, OpenAI (text-davinci-003), and HuggingFaceHub(Google/flan-t5-xxl)
